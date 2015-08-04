@@ -1,6 +1,8 @@
 # grunt-tutorial
 A set of demo files for Grunt tutorial
 
+http://salvatore.garbesi.com/lint-concat-minify-with-gruntjs/
+
 npm init
 
 # Open the package.json file and add the dependencies
